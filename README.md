@@ -1,3 +1,3 @@
-# html-css-hello
+# htmlcss-hello
 
 "Hello World" exercise
